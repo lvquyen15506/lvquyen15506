@@ -41,6 +41,9 @@
 ### 📊 Thống kê GitHub của lvquyen15506
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
