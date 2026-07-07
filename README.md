@@ -1,4 +1,4 @@
-<!-- BẮT ĐẦU PHẦN HEADER 3D NEON (NỀN TRONG SUỐT) -->
+<!-- BẮT ĐẦU PHẦN HEADER 3D NEON -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="450" alt="Transparent Developer GIF">
   
@@ -7,7 +7,7 @@
   <h1>Hi, I'm Quyền! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /></h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4B1F&center=true&vCenter=true&width=500&lines=Software+Developer;IT+Student+at+ICTU;Always+Learning;Never+Stop+Improving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4B1F&center=true&vCenter=true&width=500&lines=Software+Developer;IT+Student+at+ICTU;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,17 +31,19 @@
 
 <h3>👨‍💻 Về bản thân tôi</h3>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" height="22" alt="Icon"> <b>Học vấn:</b> Sinh viên ngành Công Nghệ Thông Tin tại ICTU
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" height="22" alt="Icon"> <b>Học vấn:</b> Sinh viên ngành Công nghệ Thông tin tại <b>ICTU</b>.<br><br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="22" height="22" alt="Icon"> <b>Dự án cốt lõi:</b> <b>IntelliJudge</b> - Nền tảng đánh giá giải pháp lập trình
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="22" height="22" alt="Icon"> <b>Dự án cốt lõi:</b> <b>IntelliJudge</b>, <b>careerai</b>, <b>QL-TRO</b> & Hệ thống quản lý Thư viện.<br><br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" height="22" alt="Icon"> <b>Mở rộng kỹ năng:</b> Full-stack development, AI/ML, Cloud Computing
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" height="22" alt="Icon"> <b>Đang nghiên cứu:</b> Tập trung đào sâu học hỏi về <b>Artificial Intelligence (AI)</b> & <b>Machine Learning</b>.<br><br>
 
-🔒 <b>Đam mê:</b> Giải mã các thách thức kỹ thuật, xây dựng giải pháp bền vững
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" height="22" alt="Icon"> <b>Mở rộng kỹ năng:</b> Triển khai Web (Vercel), Server Admin & Computer Networking.<br><br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" height="22" alt="Icon"> <b>Mục tiêu:</b> Software Developer, luôn tìm kiếm cơ hội để tăng cường kỹ năng
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20With%20Key.png" width="22" height="22" alt="Icon"> <b>Đam mê:</b> Giải mã các hệ thống qua thử thách bảo mật <b>CTF</b>.<br><br>
 
-☕ <b>Fun fact:</b> Code chạy tốt hơn khi uống cà phê!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" height="22" alt="Icon"> <b>Mục tiêu:</b> Software Developer, luôn sẵn sàng nhận công việc <b>Freelance</b>.<br><br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Hot%20Beverage.png" width="22" height="22" alt="Icon"> <b>Fun fact:</b> Code chạy bằng cà phê và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
 
 <br clear="both">
 <!-- KẾT THÚC PHẦN ABOUT ME -->
@@ -50,7 +52,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,py,html,css,js,git,github,linux,ubuntu,cloudflare" alt="Tech Stack" />
+    <!-- Đã thêm icon AI/ML: tensorflow, pytorch vào cạnh ngôn ngữ Python (py) -->
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,py,tensorflow,pytorch,html,css,js,git,github,linux,ubuntu,cloudflare" alt="Tech Stack" />
   </a>
 </p>
 
@@ -67,22 +70,30 @@
 
 ### 🏆 Bộ Sưu Tập Cúp GitHub
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ryo-ma/github-profile-trophy@master/?username=lvquyen15506&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" width="100%">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lvquyen15506&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </p>
 
 ### 📊 Thống kê GitHub của lvquyen15506
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvquyen15506&theme=radical&hide_border=true" alt="GitHub Streak" width="100%">
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvquyen15506&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/api?username=lvquyen15506&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%">
-</p>
+<br>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/api/top-langs/?username=lvquyen15506&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%">
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/lvquyen15506">
+    <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=radical&hide_border=true&v=2026" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/lvquyen15506">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=radical&hide_border=true&v=2026" alt="Top Languages" />
+  </a>
 </p>
+</div>
 
 ### 😄 Trạm dừng chân giải trí
 
