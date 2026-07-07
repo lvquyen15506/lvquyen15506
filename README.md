@@ -26,19 +26,17 @@
 </p>
 <!-- KẾT THÚC PHẦN HEADER -->
 
-<!-- BẮT ĐẦU PHẦN ABOUT ME (NỀN TRONG SUỐT 100% & EMOJI CHUẨN) -->
-<a href="#">
-  <img align="right" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Coder.gif" width="300" alt="Coding GIF">
-</a>
+<!-- BẮT ĐẦU PHẦN ABOUT ME (HTML THUẦN - BẤT TỬ KHÔNG BAO GIỜ LỖI) -->
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" alt="Developer GIF">
 
 ### 👨‍💻 Về bản thân tôi
 
-- 🎓 **Học vấn:** Sinh viên ngành Công nghệ Thông tin tại **ICTU**.
-- 🔭 **Dự án cốt lõi:** **IntelliJudge**, **careerai**, **QL-TRO** & Hệ thống quản lý Thư viện.
-- 🚀 **Mở rộng kỹ năng:** Triển khai Web (Vercel), Server Admin & Computer Networking.
-- 🔐 **Đam mê:** Giải mã các hệ thống qua thử thách bảo mật **CTF**.
-- 💼 **Mục tiêu:** Software Developer, luôn sẵn sàng nhận công việc **Freelance**.
-- ⚡ **Fun fact:** Code chạy bằng cà phê và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
+🎓 **Học vấn:** Sinh viên ngành Công nghệ Thông tin tại **ICTU**.<br><br>
+🔭 **Dự án cốt lõi:** **IntelliJudge**, **careerai**, **QL-TRO** & Hệ thống quản lý Thư viện.<br><br>
+🚀 **Mở rộng kỹ năng:** Triển khai Web (Vercel), Server Admin & Computer Networking.<br><br>
+🔐 **Đam mê:** Giải mã các hệ thống qua thử thách bảo mật **CTF**.<br><br>
+💼 **Mục tiêu:** Software Developer, luôn sẵn sàng nhận công việc **Freelance**.<br><br>
+⚡ **Fun fact:** Code chạy bằng ☕ và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
 
 <br clear="both">
 <!-- KẾT THÚC PHẦN ABOUT ME -->
