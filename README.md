@@ -1,29 +1,34 @@
-<!-- BẮT ĐẦU PHẦN BANNER & TÊN -->
+<!-- BẮT ĐẦU PHẦN HEADER 3D NEON -->
 <div align="center">
-  <!-- Banner động màu gradient rực rỡ -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20👋,%20I'm%20Quyền&fontSize=60&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20%7C%20IT%20Student&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
-
-  <!-- Chữ gõ lốc cốc đổi sang tông màu Neon Pink -->
+  <!-- Ảnh GIF lập trình 3D màu sắc neon rực rỡ -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="Colorful 3D Coding GIF">
+  
+  <br><br>
+  
+  <!-- Tiêu đề sắc nét, căn giữa -->
+  <h1>Hi, I'm Quyền! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /></h1>
+  
+  <!-- Chữ chạy lốc cốc với tông màu Cam/Đỏ (FF4B1F) tone-sur-tone -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF007F&center=true&vCenter=true&width=435&lines=Software+Developer;IT+Student+at+ICTU;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4B1F&center=true&vCenter=true&width=500&lines=Software+Developer;IT+Student+at+ICTU;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Huy hiệu mạng xã hội & Lượt truy cập -->
 <p align="center">
+  <br>
   <a href="https://www.facebook.com/quynsad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.instagram.com/lvquyncutii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lvquyen15506&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Lượt xem trang" />
+  <img src="https://komarev.com/ghpvc/?username=lvquyen15506&label=Profile%20Views&color=FF4B1F&style=flat-square" alt="Lượt xem trang" />
 </p>
 
 <!-- Dòng kẻ bảy sắc cầu vồng phân cách -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
-<!-- KẾT THÚC PHẦN BANNER -->
+<!-- KẾT THÚC PHẦN HEADER -->
 
 ### 👨‍💻 Về bản thân tôi
 
@@ -46,12 +51,11 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<!-- CÁC TIỆN ÍCH (WIDGETS) LINH TINH CHO ĐẸP -->
+<!-- CÁC TIỆN ÍCH (WIDGETS) RỰC RỠ -->
 
 ### 🏆 Bộ Sưu Tập Cúp GitHub (GitHub Trophies)
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!-- Đổi sang theme rực rỡ "radical" -->
     <img src="https://github-profile-trophy.vercel.app/?username=lvquyen15506&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
