@@ -30,26 +30,23 @@
 </p>
 <!-- KẾT THÚC PHẦN HEADER -->
 
-<!-- BẮT ĐẦU PHẦN ABOUT ME BỐ CỤC BẢNG (CHẮC CHẮN HOẠT ĐỘNG 100%) -->
-<table border="0" width="100%" style="background-color: transparent;">
-  <tr>
-    <td width="65%" valign="top">
-      <h3 align="left">👨‍💻 Về bản thân tôi</h3>
-      <ul>
-        <li>🎓 <b>Học vấn:</b> Sinh viên ngành Công nghệ Thông tin tại <b>ICTU</b>.</li>
-        <li>🔭 <b>Dự án nổi bật:</b> <b>IntelliJudge</b>, <b>careerai</b>, <b>QL-TRO</b> và Hệ thống quản lý thư viện.</li>
-        <li>🚀 <b>Mở rộng:</b> Triển khai Web (Vercel), Server Admin & Computer Networking.</li>
-        <li>🔐 <b>Đam mê:</b> Giải mã các hệ thống qua thử thách bảo mật <b>CTF</b>.</li>
-        <li>💼 <b>Mục tiêu:</b> Trở thành Software Developer, luôn sẵn sàng nhận dự án <b>Freelance</b>.</li>
-        <li>⚡ <b>Fun fact:</b> Code chạy bằng ☕ và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Ảnh GIF sẽ luôn được ép nằm ngoan ngoãn ở cột bên phải -->
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="220" alt="Coding GIF">
-    </td>
-  </tr>
-</table>
+<!-- BẮT ĐẦU PHẦN ABOUT ME (BẢN CHUẨN CHỐNG LỖI 100%) -->
+
+<a href="#">
+  <img align="right" src="https://media1.giphy.com/media/qgQUggCGvnPt9CBcYb/giphy.gif" width="280" alt="Coding GIF">
+</a>
+
+### 👨‍💻 Về bản thân tôi
+
+- 🎓 **Học vấn:** Sinh viên ngành Công nghệ Thông tin tại **ICTU**.
+- 🔭 **Dự án cốt lõi:** **IntelliJudge**, **careerai**, **QL-TRO** & Hệ thống quản lý Thư viện.
+- 🚀 **Mở rộng kỹ năng:** Triển khai Web (Vercel), Server Admin & Computer Networking.
+- 🔐 **Đam mê:** Giải mã các hệ thống qua thử thách bảo mật **CTF**.
+- 💼 **Mục tiêu:** Software Developer, luôn sẵn sàng nhận dự án **Freelance**.
+- ⚡ **Fun fact:** Code chạy bằng cà phê và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
+
+<br clear="both">
+
 <!-- KẾT THÚC PHẦN ABOUT ME -->
 
 ### 🛠️ Kỹ năng & Công nghệ sử dụng
