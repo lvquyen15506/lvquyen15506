@@ -7,7 +7,7 @@
   <h1>Hi, I'm Quyền! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /></h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4B1F&center=true&vCenter=true&width=500&lines=Software+Developer;IT+Student+at+ICTU;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4B1F&center=true&vCenter=true&width=500&lines=Software+Developer;IT+Student+at+ICTU;Always+Learning;Passionate+Developer" alt="Typing SVG">
   </a>
 </div>
 
@@ -31,19 +31,19 @@
 
 <h3>👨‍💻 Về bản thân tôi</h3>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" height="22" alt="Icon"> <b>Học vấn:</b> Sinh viên ngành Công nghệ Thông tin tại <b>ICTU</b>.<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" height="22" alt="Icon"> <b>Học vấn:</b> Sinh viên IT tại ICTU
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="22" height="22" alt="Icon"> <b>Dự án cốt lõi:</b> <b>IntelliJudge</b>, <b>careerai</b>, <b>QL-TRO</b> & Hệ thống quản lý Thư viện.<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="22" height="22" alt="Icon"> <b>Dự án cốt lõi:</b> <b>IntelliJudge</b> - Nền tảng chấm điểm tự động
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" height="22" alt="Icon"> <b>Đang nghiên cứu:</b> Tập trung đào sâu học hỏi về <b>Artificial Intelligence (AI)</b> & <b>Machine Learning</b>.<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" height="22" alt="Icon"> <b>Đang nghiên cứu:</b> Tập trung đào tạo các mô hình AI/ML
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" height="22" alt="Icon"> <b>Mở rộng kỹ năng:</b> Triển khai Web (Vercel), Server Admin & Computer Networking.<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" height="22" alt="Icon"> <b>Mở rộng kỹ năng:</b> Web Development & Cloud Technologies
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20With%20Key.png" width="22" height="22" alt="Icon"> <b>Đam mê:</b> Giải mã các hệ thống qua thử thách bảo mật <b>CTF</b>.<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20With%20Key.png" width="22" height="22" alt="Icon"> <b>Đam mê:</b> Giải mã các vấn đề phức tạp qua code
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" height="22" alt="Icon"> <b>Mục tiêu:</b> Software Developer, luôn sẵn sàng nhận công việc <b>Freelance</b>.<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" height="22" alt="Icon"> <b>Mục tiêu:</b> Software Developer, luôn tiếp tục học hỏi
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Hot%20Beverage.png" width="22" height="22" alt="Icon"> <b>Fun fact:</b> Code chạy bằng cà phê và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Hot%20Beverage.png" width="22" height="22" alt="Icon"> <b>Fun fact:</b> Code chạy tốt hơn khi uống cà phê ☕
 
 <br clear="both">
 <!-- KẾT THÚC PHẦN ABOUT ME -->
@@ -78,7 +78,7 @@
 ### 📊 Thống kê GitHub của lvquyen15506
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvquyen15506&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=lvquyen15506&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
