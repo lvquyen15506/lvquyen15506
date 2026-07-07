@@ -26,19 +26,20 @@
 </p>
 <!-- KẾT THÚC PHẦN HEADER -->
 
-<!-- BẮT ĐẦU PHẦN ABOUT ME (GIF 3D NEON VÀ ICON 3D BẤT TỬ) -->
-<a href="#">
-  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="380" alt="Modern Coder GIF">
+<!-- BẮT ĐẦU PHẦN ABOUT ME (GIAO DIỆN BẤT TỬ - KHÔNG BAO GIỜ LỖI) -->
+<a href="https://github.com/lvquyen15506">
+  <!-- GIF Lập trình viên Macbook từ nguồn cực kỳ ổn định -->
+  <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="330" alt="Macbook Coding GIF">
 </a>
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30" height="30" alt="Laptop"> Về bản thân tôi
+### 👨‍💻 Về bản thân tôi
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="22" height="22" alt="Graduation Cap"> **Học vấn:** Sinh viên ngành Công nghệ Thông tin tại **ICTU**.<br><br>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.gif" width="22" height="22" alt="Telescope"> **Dự án cốt lõi:** **IntelliJudge**, **careerai**, **QL-TRO** & Hệ thống quản lý Thư viện.<br><br>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="22" height="22" alt="Rocket"> **Mở rộng kỹ năng:** Triển khai Web (Vercel), Server Admin & Computer Networking.<br><br>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f510/512.gif" width="22" height="22" alt="Lock"> **Đam mê:** Giải mã các hệ thống qua thử thách bảo mật **CTF**.<br><br>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="22" height="22" alt="Briefcase"> **Mục tiêu:** Software Developer, luôn sẵn sàng nhận công việc **Freelance**.<br><br>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="22" height="22" alt="Lightning"> **Fun fact:** Code chạy bằng cà phê và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
+🎓 **Học vấn:** Sinh viên ngành Công nghệ Thông tin tại **ICTU**.<br><br>
+🔭 **Dự án cốt lõi:** **IntelliJudge**, **careerai**, **QL-TRO** & Hệ thống quản lý Thư viện.<br><br>
+🚀 **Mở rộng kỹ năng:** Triển khai Web (Vercel), Server Admin & Computer Networking.<br><br>
+🔐 **Đam mê:** Giải mã các hệ thống qua thử thách bảo mật **CTF**.<br><br>
+💼 **Mục tiêu:** Software Developer, luôn sẵn sàng nhận công việc **Freelance**.<br><br>
+⚡ **Fun fact:** Code chạy bằng ☕ và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
 
 <br clear="both">
 <!-- KẾT THÚC PHẦN ABOUT ME -->
