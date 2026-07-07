@@ -30,25 +30,27 @@
 </p>
 <!-- KẾT THÚC PHẦN HEADER -->
 
-<!-- PHẦN ABOUT ME SIÊU CUỐN (LAYOUT CHIA CỘT) -->
-<div align="left">
-  <!-- Ảnh GIF Lập trình viên bên góc phải -->
-  <img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" alt="Macbook Coding GIF">
-  
-  ### 👨‍💻 Về bản thân tôi
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Học vấn" width="22" /> <b>Học vấn:</b> Sinh viên ngành Công nghệ Thông tin tại <b>ICTU</b>.<br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Dự án" width="22" /> <b>Dự án cốt lõi:</b> <b>IntelliJudge</b>, <b>careerai</b>, <b>QL-TRO</b> & <b>Quản lý Thư viện</b>.<br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Khám phá" width="22" /> <b>Mở rộng kỹ năng:</b> Triển khai Web (Vercel), Server Admin & <b>Networking</b>.<br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20With%20Key.png" alt="Bảo mật" width="22" /> <b>Đam mê:</b> Giải mã các hệ thống qua thử thách bảo mật <b>CTF</b>.<br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Công việc" width="22" /> <b>Mục tiêu:</b> Software Developer, luôn sẵn sàng nhận dự án <b>Freelance</b>.<br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/High%20Voltage.png" alt="Vui vẻ" width="22" /> <b>Fun fact:</b> Code chạy bằng ☕ và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
-  </p>
-</div>
-
-<!-- Lệnh này giúp phần Tech Stack bên dưới không bị dính vào phần hình ảnh -->
-<br clear="both">
+<!-- BẮT ĐẦU PHẦN ABOUT ME BỐ CỤC BẢNG (CHẮC CHẮN HOẠT ĐỘNG 100%) -->
+<table border="0" width="100%" style="background-color: transparent;">
+  <tr>
+    <td width="65%" valign="top">
+      <h3 align="left">👨‍💻 Về bản thân tôi</h3>
+      <ul>
+        <li>🎓 <b>Học vấn:</b> Sinh viên ngành Công nghệ Thông tin tại <b>ICTU</b>.</li>
+        <li>🔭 <b>Dự án nổi bật:</b> <b>IntelliJudge</b>, <b>careerai</b>, <b>QL-TRO</b> và Hệ thống quản lý thư viện.</li>
+        <li>🚀 <b>Mở rộng:</b> Triển khai Web (Vercel), Server Admin & Computer Networking.</li>
+        <li>🔐 <b>Đam mê:</b> Giải mã các hệ thống qua thử thách bảo mật <b>CTF</b>.</li>
+        <li>💼 <b>Mục tiêu:</b> Trở thành Software Developer, luôn sẵn sàng nhận dự án <b>Freelance</b>.</li>
+        <li>⚡ <b>Fun fact:</b> Code chạy bằng ☕ và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- Ảnh GIF sẽ luôn được ép nằm ngoan ngoãn ở cột bên phải -->
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="220" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
+<!-- KẾT THÚC PHẦN ABOUT ME -->
 
 ### 🛠️ Kỹ năng & Công nghệ sử dụng
 
