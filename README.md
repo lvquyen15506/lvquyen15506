@@ -1,7 +1,7 @@
-<!-- BẮT ĐẦU PHẦN HEADER 3D NEON -->
+<!-- BẮT ĐẦU PHẦN HEADER 3D NEON (NỀN TRONG SUỐT) -->
 <div align="center">
-  <!-- Ảnh GIF lập trình 3D màu sắc neon rực rỡ -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="Colorful 3D Coding GIF">
+  <!-- Ảnh GIF Developer nền trong suốt 100% -->
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="450" alt="Transparent Developer GIF">
   
   <br><br>
   
