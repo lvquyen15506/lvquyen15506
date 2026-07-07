@@ -26,19 +26,19 @@
 </p>
 <!-- KẾT THÚC PHẦN HEADER -->
 
-<!-- BẮT ĐẦU PHẦN ABOUT ME (ĐÃ FIX ICON VÀ ẢNH BÊN PHẢI) -->
+<!-- BẮT ĐẦU PHẦN ABOUT ME (NỀN TRONG SUỐT 100% & EMOJI CHUẨN) -->
 <a href="#">
-  <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF">
+  <img align="right" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Coder.gif" width="300" alt="Coding GIF">
 </a>
 
-### :man_technologist: Về bản thân tôi
+### 👨‍💻 Về bản thân tôi
 
-* :mortar_board: **Học vấn:** Sinh viên ngành Công nghệ Thông tin tại **ICTU**.
-* :telescope: **Dự án cốt lõi:** **IntelliJudge**, **careerai**, **QL-TRO** & Hệ thống quản lý Thư viện.
-* :rocket: **Mở rộng kỹ năng:** Triển khai Web (Vercel), Server Admin & Computer Networking.
-* :closed_lock_with_key: **Đam mê:** Giải mã các hệ thống qua thử thách bảo mật **CTF**.
-* :briefcase: **Mục tiêu:** Software Developer, luôn sẵn sàng nhận công việc **Freelance**.
-* :zap: **Fun fact:** Code chạy bằng cà phê và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
+- 🎓 **Học vấn:** Sinh viên ngành Công nghệ Thông tin tại **ICTU**.
+- 🔭 **Dự án cốt lõi:** **IntelliJudge**, **careerai**, **QL-TRO** & Hệ thống quản lý Thư viện.
+- 🚀 **Mở rộng kỹ năng:** Triển khai Web (Vercel), Server Admin & Computer Networking.
+- 🔐 **Đam mê:** Giải mã các hệ thống qua thử thách bảo mật **CTF**.
+- 💼 **Mục tiêu:** Software Developer, luôn sẵn sàng nhận công việc **Freelance**.
+- ⚡ **Fun fact:** Code chạy bằng cà phê và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
 
 <br clear="both">
 <!-- KẾT THÚC PHẦN ABOUT ME -->
