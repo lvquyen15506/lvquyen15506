@@ -75,21 +75,21 @@
 ### 📊 Thống kê GitHub của lvquyen15506
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvquyen15506&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lvquyen15506&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <p align="center">
-    <a href="https://github.com/lvquyen15506">
-      <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=radical&hide_border=true&v=2026" alt="GitHub Stats" />
-    </a>
-    
-    <a href="https://github.com/lvquyen15506">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=radical&hide_border=true&v=2026" alt="Top Languages" />
-    </a>
-  </p>
+  <a href="https://github.com/lvquyen15506">
+    <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/lvquyen15506">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
+  </a>
 </div>
 
 ### 😄 Trạm dừng chân giải trí
