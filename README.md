@@ -65,10 +65,17 @@
 <br>
 
 <div align="center">
-  <!-- Thống kê chung -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <p align="center">
+  <!-- Thống kê chung (Đã thêm mã chống lưu cache) -->
+  <a href="https://github.com/lvquyen15506">
+    <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=tokyonight&hide_border=true&v=2026" alt="GitHub Stats" />
+  </a>
+  
   <!-- Ngôn ngữ sử dụng nhiều nhất -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/lvquyen15506">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=tokyonight&hide_border=true&v=2026" alt="Top Languages" />
+  </a>
+</p>
 </div>
 
 ### 😄 Trạm dừng chân giải trí (Random Quotes & Jokes)
