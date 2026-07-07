@@ -27,16 +27,18 @@
 <!-- KẾT THÚC PHẦN HEADER -->
 
 <!-- BẮT ĐẦU PHẦN ABOUT ME (GIF 3D NEON VÀ ICON 3D BẤT TỬ) -->
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="3D Neon Coding GIF">
+<a href="#">
+  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="380" alt="Modern Coder GIF">
+</a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" width="30" /> Về bản thân tôi
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30" height="30" alt="Laptop"> Về bản thân tôi
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" /> **Học vấn:** Sinh viên ngành Công nghệ Thông tin tại **ICTU**.<br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="22" /> **Dự án cốt lõi:** **IntelliJudge**, **careerai**, **QL-TRO** & Hệ thống quản lý Thư viện.<br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" /> **Mở rộng kỹ năng:** Triển khai Web (Vercel), Server Admin & Computer Networking.<br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20With%20Key.png" width="22" /> **Đam mê:** Giải mã các hệ thống qua thử thách bảo mật **CTF**.<br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" /> **Mục tiêu:** Software Developer, luôn sẵn sàng nhận công việc **Freelance**.<br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Hot%20Beverage.png" width="22" /> **Fun fact:** Code chạy bằng cà phê và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="22" height="22" alt="Graduation Cap"> **Học vấn:** Sinh viên ngành Công nghệ Thông tin tại **ICTU**.<br><br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.gif" width="22" height="22" alt="Telescope"> **Dự án cốt lõi:** **IntelliJudge**, **careerai**, **QL-TRO** & Hệ thống quản lý Thư viện.<br><br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="22" height="22" alt="Rocket"> **Mở rộng kỹ năng:** Triển khai Web (Vercel), Server Admin & Computer Networking.<br><br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f510/512.gif" width="22" height="22" alt="Lock"> **Đam mê:** Giải mã các hệ thống qua thử thách bảo mật **CTF**.<br><br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="22" height="22" alt="Briefcase"> **Mục tiêu:** Software Developer, luôn sẵn sàng nhận công việc **Freelance**.<br><br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="22" height="22" alt="Lightning"> **Fun fact:** Code chạy bằng cà phê và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
 
 <br clear="both">
 <!-- KẾT THÚC PHẦN ABOUT ME -->
