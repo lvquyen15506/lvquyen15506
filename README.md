@@ -26,17 +26,22 @@
 </p>
 <!-- KẾT THÚC PHẦN HEADER -->
 
-<!-- BẮT ĐẦU PHẦN ABOUT ME (GIAO DIỆN BẤT TỬ - KHÔNG BAO GIỜ LỖI) -->
-<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="350" alt="Hologram Coder">
+<!-- BẮT ĐẦU PHẦN ABOUT ME (BẢN HTML 100% BẤT TỬ) -->
+<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Coder.gif" width="300" alt="Coder GIF">
 
-### 👨‍💻 Về bản thân tôi
+<h3>👨‍💻 Về bản thân tôi</h3>
 
-- 🎓 **Học vấn:** Sinh viên ngành Công nghệ Thông tin tại **ICTU**.
-- 🔭 **Dự án cốt lõi:** **IntelliJudge**, **careerai**, **QL-TRO** & Hệ thống quản lý Thư viện.
-- 🚀 **Mở rộng kỹ năng:** Triển khai Web (Vercel), Server Admin & Computer Networking.
-- 🔐 **Đam mê:** Giải mã các hệ thống qua thử thách bảo mật **CTF**.
-- 💼 **Mục tiêu:** Software Developer, luôn sẵn sàng nhận công việc **Freelance**.
-- ⚡ **Fun fact:** Code chạy bằng ☕ và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" height="22" alt="Icon"> <b>Học vấn:</b> Sinh viên ngành Công nghệ Thông tin tại <b>ICTU</b>.<br><br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="22" height="22" alt="Icon"> <b>Dự án cốt lõi:</b> <b>IntelliJudge</b>, <b>careerai</b>, <b>QL-TRO</b> & Hệ thống quản lý Thư viện.<br><br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" height="22" alt="Icon"> <b>Mở rộng kỹ năng:</b> Triển khai Web (Vercel), Server Admin & Computer Networking.<br><br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20With%20Key.png" width="22" height="22" alt="Icon"> <b>Đam mê:</b> Giải mã các hệ thống qua thử thách bảo mật <b>CTF</b>.<br><br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" height="22" alt="Icon"> <b>Mục tiêu:</b> Software Developer, luôn sẵn sàng nhận công việc <b>Freelance</b>.<br><br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Hot%20Beverage.png" width="22" height="22" alt="Icon"> <b>Fun fact:</b> Code chạy bằng cà phê và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
 
 <br clear="both">
 <!-- KẾT THÚC PHẦN ABOUT ME -->
