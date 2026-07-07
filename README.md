@@ -67,23 +67,21 @@
 
 ### 🏆 Bộ Sưu Tập Cúp GitHub
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lvquyen15506&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=lvquyen15506&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies" width="100%">
 </p>
 
 ### 📊 Thống kê GitHub của lvquyen15506
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvquyen15506&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvquyen15506&theme=radical&hide_border=true" alt="GitHub Streak" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" width="100%">
 </p>
 
 ### 😄 Trạm dừng chân giải trí
