@@ -30,15 +30,25 @@
 </p>
 <!-- KẾT THÚC PHẦN HEADER -->
 
-### 👨‍💻 Về bản thân tôi
+<!-- PHẦN ABOUT ME SIÊU CUỐN (LAYOUT CHIA CỘT) -->
+<div align="left">
+  <!-- Ảnh GIF Lập trình viên bên góc phải -->
+  <img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" alt="Macbook Coding GIF">
+  
+  ### 👨‍💻 Về bản thân tôi
+  
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Học vấn" width="22" /> <b>Học vấn:</b> Sinh viên ngành Công nghệ Thông tin tại <b>ICTU</b>.<br><br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Dự án" width="22" /> <b>Dự án cốt lõi:</b> <b>IntelliJudge</b>, <b>careerai</b>, <b>QL-TRO</b> & <b>Quản lý Thư viện</b>.<br><br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Khám phá" width="22" /> <b>Mở rộng kỹ năng:</b> Triển khai Web (Vercel), Server Admin & <b>Networking</b>.<br><br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20With%20Key.png" alt="Bảo mật" width="22" /> <b>Đam mê:</b> Giải mã các hệ thống qua thử thách bảo mật <b>CTF</b>.<br><br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Công việc" width="22" /> <b>Mục tiêu:</b> Software Developer, luôn sẵn sàng nhận dự án <b>Freelance</b>.<br><br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/High%20Voltage.png" alt="Vui vẻ" width="22" /> <b>Fun fact:</b> Code chạy bằng ☕ và thỉnh thoảng "thức trắng" fix bug lúc 2h sáng.
+  </p>
+</div>
 
-- 🎓 Hiện tại tôi đang là sinh viên ngành Công nghệ Thông tin tại **ICTU** (Đại học Công nghệ Thông tin và Truyền thông).
-- 🔭 Tôi đang phát triển và duy trì các dự án: **IntelliJudge**, **careerai**, hệ thống **QL-TRO** và **Hệ thống quản lý thư viện (Java OOP)**.
-- 🚀 Đang tập trung nghiên cứu triển khai các ứng dụng web (như dự án Locket-admin) lên Vercel và thực hành quản trị máy chủ.
-- 🌱 Trọng tâm công nghệ: **.NET (C#, ASP.NET Core), Java, Python và C++**.
-- 🔐 Có niềm đam mê lớn với Computer Networking và thường xuyên rèn luyện kỹ năng qua các thử thách bảo mật CTF.
-- 💼 Luôn sẵn sàng đón nhận các cơ hội làm việc dự án tự do (Freelance).
-- ⚡ **Fun fact:** *Code chạy bằng cà phê và đam mê, thỉnh thoảng có chút fix bug lúc 2h sáng.*
+<!-- Lệnh này giúp phần Tech Stack bên dưới không bị dính vào phần hình ảnh -->
+<br clear="both">
 
 ### 🛠️ Kỹ năng & Công nghệ sử dụng
 
