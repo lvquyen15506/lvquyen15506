@@ -33,9 +33,11 @@
 ### 👨‍💻 Về bản thân tôi
 
 - 🎓 Hiện tại tôi đang là sinh viên ngành Công nghệ Thông tin tại **ICTU** (Đại học Công nghệ Thông tin và Truyền thông).
-- 🔭 Tôi đang phát triển và duy trì các dự án: **IntelliJudge**, **careerai** và hệ thống **QL-TRO**.
+- 🔭 Tôi đang phát triển và duy trì các dự án: **IntelliJudge**, **careerai**, hệ thống **QL-TRO** và **Hệ thống quản lý thư viện (Java OOP)**.
+- 🚀 Đang tập trung nghiên cứu triển khai các ứng dụng web (như dự án Locket-admin) lên Vercel và thực hành quản trị máy chủ.
 - 🌱 Trọng tâm công nghệ: **.NET (C#, ASP.NET Core), Java, Python và C++**.
-- 🔐 Có niềm đam mê lớn với Computer Networking, Server Administration và các thử thách CTF.
+- 🔐 Có niềm đam mê lớn với Computer Networking và thường xuyên rèn luyện kỹ năng qua các thử thách bảo mật CTF.
+- 💼 Luôn sẵn sàng đón nhận các cơ hội làm việc dự án tự do (Freelance).
 - ⚡ **Fun fact:** *Code chạy bằng cà phê và đam mê, thỉnh thoảng có chút fix bug lúc 2h sáng.*
 
 ### 🛠️ Kỹ năng & Công nghệ sử dụng
@@ -52,6 +54,11 @@
 </p>
 
 <!-- CÁC TIỆN ÍCH (WIDGETS) RỰC RỠ -->
+
+### 📈 Biểu đồ hoạt động mã nguồn mở (Activity Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lvquyen15506&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%">
+</p>
 
 ### 🏆 Bộ Sưu Tập Cúp GitHub (GitHub Trophies)
 <p align="center">
