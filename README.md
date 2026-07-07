@@ -74,23 +74,17 @@
 
 ### 📊 Thống kê GitHub của lvquyen15506
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lvquyen15506&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvquyen15506&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/lvquyen15506">
-    <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/lvquyen15506">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 😄 Trạm dừng chân giải trí
 
