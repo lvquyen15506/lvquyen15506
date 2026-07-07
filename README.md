@@ -23,7 +23,7 @@
 - 🔭 Tôi đang phát triển và duy trì các dự án: **IntelliJudge**, **careerai** và hệ thống **QL-TRO**.
 - 🌱 Trọng tâm công nghệ: **.NET (C#, ASP.NET Core), Java, Python và C++**.
 - 🔐 Có niềm đam mê lớn với Computer Networking, Server Administration và các thử thách CTF.
-- 📫 Liên hệ với tôi qua: **[[Điền link Facebook](https://www.facebook.com/quynsad)/Email của bạn vào đây(mailto:protv2006@gmail.com)]**
+- 📫 Liên hệ với tôi qua: **[[Facebook](https://www.facebook.com/quynsad)/Instagram(https://www.instagram.com/lvquyncutii/)]**
 
 ### 🛠️ Kỹ năng & Công nghệ sử dụng
 
