@@ -95,6 +95,15 @@
 </p>
 </div>
 
+### 🐍 Lịch sử Commit (Contribution Snake)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lvquyen15506/lvquyen15506/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lvquyen15506/lvquyen15506/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lvquyen15506/lvquyen15506/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ### 😄 Trạm dừng chân giải trí
 
 *Mỗi lần bạn tải lại trang (F5), một câu nói hay hoặc một câu truyện cười về lập trình sẽ xuất hiện!*
