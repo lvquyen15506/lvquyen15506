@@ -65,13 +65,13 @@
 
 ### 📈 Biểu đồ hoạt động mã nguồn mở
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lvquyen15506&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lvquyen15506&theme=radical&hide_border=true&area=true&v=clear_cache_1" alt="Activity Graph" width="100%">
 </p>
 
 ### 🏆 Bộ Sưu Tập Cúp GitHub
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lvquyen15506&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lvquyen15506&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=clear_cache_1" alt="Trophies" />
   </a>
 </p>
 
@@ -86,11 +86,11 @@
 <div align="center">
   <p align="center">
   <a href="https://github.com/lvquyen15506">
-    <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=radical&hide_border=true&v=2026" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lvquyen15506&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&v=clear_cache_1" alt="GitHub Stats" />
   </a>
   
   <a href="https://github.com/lvquyen15506">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=radical&hide_border=true&v=2026" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvquyen15506&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=clear_cache_1" alt="Top Languages" />
   </a>
 </p>
 </div>
