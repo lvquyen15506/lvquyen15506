@@ -65,13 +65,13 @@
 
 ### 📈 Biểu đồ hoạt động mã nguồn mở
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lvquyen15506&theme=radical&hide_border=true&area=true&cache_seconds=86400" alt="Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lvquyen15506&theme=radical&hide_border=true&area=true&v=9999" alt="Activity Graph" width="100%">
 </p>
 
 ### 🏆 Bộ Sưu Tập Cúp GitHub
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lvquyen15506&theme=radical&no-frame=true&no-bg=true&margin-w=15&cache_seconds=86400" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lvquyen15506&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=9999" alt="Trophies" />
   </a>
 </p>
 
